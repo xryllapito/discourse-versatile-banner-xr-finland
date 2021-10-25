@@ -1,0 +1,9 @@
+---
+fi:
+  close:
+    title: Sulje ohje
+    label: Sulje
+  toggle:
+    title: Laajenna/piilota ohje
+    collapse_label: Piilota ohje
+    expand_label: Laajenna ohje
