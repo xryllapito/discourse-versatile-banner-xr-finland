@@ -5,5 +5,5 @@ fi:
     label: Sulje
   toggle:
     title: Laajenna/piilota ohje
-    collapse_label: Piilota ohje
-    expand_label: Laajenna ohje
+    collapse_label: Piilota ohje napsauttamalla
+    expand_label: Laajenna ohje napsauttamalla
