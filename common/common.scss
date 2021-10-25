@@ -294,3 +294,20 @@
 .hidden-banner {
   display: none;
 }
+
+// XR Finland customized banner
+.banner-box p, .banner-box li {
+  font-family: 'Montserrat' !important;
+}
+
+.banner-box h1, .banner-box h2, .banner-box h3, .banner-box h4 {
+  font-family: 'Montserrat' !important;
+  font-weight: 800 !important;
+  color: #444 !important;
+}
+
+.banner-box .row .single-box .button-list .btn {
+  font-family: 'Montserrat' !important;
+  font-weight: 800 !important;
+  font-size: 1rem;
+}
