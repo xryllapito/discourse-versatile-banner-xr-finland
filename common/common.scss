@@ -51,11 +51,6 @@
   margin-top: 20px;
   color: $primary_text_color;
   position: relative;
-  background-image: url($banner_background_image);
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-color: $background_color;
 
   .button-container {
     margin-right: 5px;
@@ -96,6 +91,16 @@
       }
     }
   }
+
+  .button-container::before {
+    background-image: url($banner_background_image);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: $background_color;
+    opacity: 0.2;
+  }
+
 
   h1,
   h2,
